@@ -16,12 +16,9 @@ function remove_execute_bit_on_NON_BASH
 		if [ -x "${f}" ]; then
 	  	if [ $simflag ]; then
 				echo "chmod u+x $f"
-				echo "chmod go-x $f"
 			else
 				echo "chmod u+x $f"
-				echo "chmod go-x $f"
 				chmod u+x "$f"
-				chmod go-x "$f"
 			fi
 		fi
 

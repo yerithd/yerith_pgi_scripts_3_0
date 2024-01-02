@@ -12,8 +12,27 @@ function remove_execute_bit_on_NON_BASH
 	for relative_path_f in $(dir ${FOLDER_TO_PROCESS}); do
 	
 		f="$(readlink -f "$relative_path_f")"
-		
+	
+		if [ -x "${f}" ]; then
+	  	if [ $simflag ]; then
+				echo "chmod u+x $f"
+				echo "chmod go-x $f"
+			else
+				echo "chmod u+x $f"
+				echo "chmod go-x $f"
+				chmod u+x "$f"
+				chmod go-x "$f"
+			fi
+		fi
+
 		if [ -d "${f}" ]; then
+			if [ $simflag ]; then
+				echo "chmod 755 $f"
+			else
+				echo "chmod 755 $f"
+				chmod 755 "$f"
+			fi	
+			
 			cd "$f"
 		  remove_execute_bit_on_NON_BASH "$f"
 			cd ..

@@ -1,0 +1,9 @@
+net-tools
+module-assistant
+acpi-support
+acpi
+battery-stats
+hibernate
+thinkfan
+hdapsd
+conky-all

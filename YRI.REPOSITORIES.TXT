@@ -1,0 +1,14 @@
+jh_nissi_versets_BIBLIQUES
+cv_yr
+yerith_pgi_scripts_3_0
+yerith-erp-3-0
+yerith-erp-3-0-system-daemon
+yri-sd-db-runtime-verif
+yri-db-runtime-verif
+yri_sd_runtime_verif
+yri_sd_runtime_verif_doc
+yri_sd_runtime_verif_lang
+yri_sd_runtime_verif_UNIT_TESTS
+yri_visualize_edit_graphically_DOT_FILES
+yerith-erp-3-0-DOCUMENTATION-ENGLISH
+yerith-erp-3-0-DOCUMENTATION-francais

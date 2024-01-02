@@ -1,0 +1,1 @@
+/root/debian-11.1.0-amd64-DVD-1.iso     /mnt/iso_1   iso9660 auto,noexec     0       0

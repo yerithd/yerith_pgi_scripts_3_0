@@ -1,0 +1,7 @@
+codeblocks
+intel-microcode
+firmware-realtek
+firmware-intel-sound
+firmware-linux-nonfree
+firmware-linux-free
+firmware-iwlwifi

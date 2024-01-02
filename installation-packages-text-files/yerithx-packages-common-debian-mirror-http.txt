@@ -1,0 +1,14 @@
+tikzit
+doxygen
+hunspell-en-us
+retext
+potrace
+qtsystems5-examples
+astyle
+stl-manual
+gitk-doc
+indent-doc
+lcov
+sloccount
+uget
+pdfsam

@@ -1,0 +1,6 @@
+printer-driver-hpcups
+printer-driver-pxljr
+printer-driver-hpijs
+printer-driver-splix
+hplip
+printer-driver-cjet

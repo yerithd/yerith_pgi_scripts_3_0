@@ -1,0 +1,6 @@
+ 
+ #deb http://ftp2.de.debian.org/debian/ bullseye main contrib non-free
+
+ #deb [trusted=yes] http://127.0.0.1/debian/ bullseye main
+
+ deb [trusted=yes] file:///mnt/iso_1/  bullseye main contrib

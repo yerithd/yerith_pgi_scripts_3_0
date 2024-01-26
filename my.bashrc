@@ -69,9 +69,9 @@ alias gs='git status'
 
 alias yerith-erp-3-0-system-daemon='cd ${HOME}/yerith-erp-3-0-system-daemon'
 
-alias yerith-erp-doc-e='cd ${HOME}/yerith-erp-3-0-DOCUMENTATION-ENGLISH'
+alias yerith-erp-doc-e='cd ${HOME}/yerith-erp-3-0-documentation-english'
 
-alias yerith-erp-doc-f='cd ${HOME}/yerith-erp-3-0-DOCUMENTATION-francais'
+alias yerith-erp-doc-f='cd ${HOME}/yerith-erp-3-0-documentation-francais'
 
 alias yerith3.0='cd ${HOME}/yerith-erp-3-0'
 
